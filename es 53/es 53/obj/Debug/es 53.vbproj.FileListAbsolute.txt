@@ -1,0 +1,12 @@
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\bin\Debug\es 53.exe.config
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\bin\Debug\es 53.exe
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\bin\Debug\es 53.pdb
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\bin\Debug\es 53.xml
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es 53.vbprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es_53.Form1.resources
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es_53.Resources.resources
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es 53.vbproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es 53.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es 53.exe
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es 53.xml
+C:\Users\Samuel\Desktop\INFORMATICA SCUOLA\es 53\es 53\obj\Debug\es 53.pdb
